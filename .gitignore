@@ -1,0 +1,27 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+*.zip
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+*.log
+*.sqlite3
+
+# Ignore pipenv specific files (if using pipenv)
+Pipfile
+Pipfile.lock
+
+# Ignore poetry specific files (if using poetry)
+poetry.lock
