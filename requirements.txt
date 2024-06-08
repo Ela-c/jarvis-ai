@@ -1,1 +1,5 @@
-PyAudio==0.2.14
+pvrhino
+pvporcupine
+pvrecorder
+python-dotenv
+RPi.GPIO
