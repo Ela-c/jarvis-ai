@@ -2,7 +2,7 @@
 
 JarvisAI is an innovative proof of concept that enables seamless control of home lighting through voice commands. Utilizing a Raspberry Pi and lightweight AI models trained for wake word recognition and speech-to-intent processing, JarvisAI allows users to effortlessly turn on and off lights in various rooms such as the bathroom, living room, and bedroom. This project showcases the integration of advanced AI with practical home automation, providing a glimpse into the future of smart living.
 
-!["project image"](/images/image.jpg)
+!["project image"](images/image.png)
 
 ## Features
 
